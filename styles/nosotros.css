@@ -1,0 +1,58 @@
+.nosotros{
+  margin-top: 80px;
+}
+
+.nosotros h1{
+  text-align: left !important;
+}
+
+.nosotros-img1{
+  margin-top: 30px;
+  width: 100%;
+  height: 70vh;
+}
+.nosotros-img1 img{
+  width: 100%;
+  height: 100%;
+}
+
+.nosotros-misionimg{
+}
+
+.nosotros-misionimg img{
+  width: 100%;
+}
+
+
+.mision-contain{
+  height: 100% !important;
+  position: relative;
+}
+
+.mision{
+  text-align: left;
+  margin-top: 40px;
+}
+
+.mision-title{
+  text-align: left;
+}
+
+
+
+
+.compromiso-contain{
+  height: 100% !important;
+  position: relative;
+}
+
+.compromiso{
+  text-align: left;
+  margin-top: 40px;
+}
+.nosotros-misionimg{
+  margin-top: 20px;
+}
+.compromiso-title{
+  text-align: left;
+}

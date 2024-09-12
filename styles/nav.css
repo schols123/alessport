@@ -1,0 +1,17 @@
+
+
+
+.navegacion{
+  background-color: #100f0f86 !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #F5F3F5 !important;
+}
+.navbar-brand{
+  color: #F5F3F5 !important;
+}
+
+.icon-nav img{
+  width: 26px;
+}

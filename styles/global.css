@@ -1,0 +1,214 @@
+p{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+li{
+  list-style: none !important;
+}
+h1{
+  margin: 0 !important; 
+  padding: 0 !important;
+}
+h2{
+  padding: 0 !important;
+}
+
+.boton{
+  padding: 10px 14px;
+  background-color:  #F5F3F5;
+  color: #7020D7;
+  border: none;
+}
+
+.page-subimg{
+  padding: 0 !important;
+}
+.page-subimg img{
+  width: 100% !important;
+  height: 100%;
+  object-fit: cover;
+}
+.row{
+  margin: auto !important;
+}
+.subpage{
+  margin-top: 50px !important;
+}
+.sct{
+  width: 100%;
+  height: 100vh;
+}
+.sct-title{
+}
+
+.sct-title h2{
+  font-size: 5rem;
+  color: #7020D7;
+}
+.title-img{
+  height: 400px;
+}
+
+.page{
+  padding: 0 !important;
+  margin-top: 80px;
+
+}
+.img-simple{
+  margin-top: 40px;
+}
+.img-simple img{
+  width: 100% ;
+}
+.page-title{
+  font-size: 5rem;
+  font-weight: bolder;
+  text-align: center;
+  color: #7020D7;
+}
+.page-title2{
+  font-size: 3.4rem;
+  font-weight: bolder;
+  text-align: start;
+  color: #100F0F;
+}
+.page-sect{
+  max-width: 600px;
+  margin: 0 auto;
+}
+.page-subtitle{
+  color: #7020D7;
+  font-size: 2.7rem !important;
+  font-weight: bolder;
+}
+.page-subtitle2{
+  color: #100F0F;
+  font-size: 2rem !important;
+  font-weight: bolder;
+}
+.page-parraf{
+  font-size: 1.4rem !important;
+}
+
+.page-btn{
+  margin-top: 14px;
+  background-color: transparent;
+  padding: 10px 20px;
+  font-size: 1.6rem;
+  border: 1px solid #7020D7;
+  color: #7020D7;
+}
+
+.page-img-comp{
+  margin-top: 30px;
+  width: 100%;
+  position: relative;
+}
+.page-img-comp img{
+  width: 100%;
+}
+.politicas{
+  margin-top: 60px;
+}
+
+.filtros{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.filtros button{
+  padding: 7px 14px;
+  background-color:  transparent;
+  color: #7020D7;
+  border: 1px solid #7020D7;
+}
+
+.filtros-input{
+  padding: 7px 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  background-color:  transparent;
+  color: #100f0f6c;
+  border: 1px solid #100f0f75;
+  width: 100%;
+  max-width: 400px;
+}
+
+.filtros-input img{
+  width: 24px;
+}
+
+.filtros-input input{
+  border: none;
+  width: 100%;
+}
+
+
+
+.productos-catalogo{
+  margin-top: 16px !important;
+}
+.navpg-container{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+.navpagination{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.navpg{
+  padding: 7px 10px;
+}
+
+.navpg-opt{
+  background-color: #7020D7;
+  color: #F5F3F5;
+}
+
+.navpg-slc{
+  background-color: #E2E2E2;
+}
+
+.navpg-item{
+  
+}
+
+
+
+
+.prodct-item{
+  position: relative;
+  margin-top: 20px;
+  height: 400px;
+}
+.prodct-item-img{
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+}
+.prodct-item-detall{
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.prodct-name{
+  font-size: 1.8rem;
+}
+
+.prodct-item-bot{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.prodct-categoria{}
+.prodct-precio{
+  font-size: 2rem;
+}

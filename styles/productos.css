@@ -1,0 +1,15 @@
+.producto-title{
+  font-size: 5rem;
+  font-weight: bolder;
+  color: #7020D7;
+}
+
+.productos{
+  display: flex;
+  position: relative;
+  height: 100%;
+}
+
+.producto-sct{
+  margin-bottom: 30px;
+}

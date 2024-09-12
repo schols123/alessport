@@ -1,0 +1,28 @@
+.contactanos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contactanos-input{
+}
+.contactanos-form{
+  margin-top: 10px;
+}
+
+.contactanos-input p{
+  font-size: 2rem;
+}
+.form-conte{
+  padding-top: 20px;
+}
+.contactanos-input input{
+  padding: 12px;
+  font-size: 2rem;
+  color: #100F0F;
+  border: none;
+  width: 100%;
+  background-color: #D9D9D9;  
+}
+.input-contenido{
+  height: 240px;
+}

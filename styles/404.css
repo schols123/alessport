@@ -1,0 +1,15 @@
+.notfound{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.found-cont{
+  max-width: 400px;
+  padding: 20px;
+}
+.found-cont h2{
+  font-size: 10rem;
+  color: #7020D7;
+}
+.found-cont p{
+}
